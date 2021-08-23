@@ -1,0 +1,14 @@
+google.com
+209.85.231.104
+microsoft.com 
+207.46.170.123
+yahoo.com 
+72.30.2.43.
+facebook.com 
+66.220.149.25
+wikipedia.com 
+208.80.152.2
+dell.com 
+143.166.83.38
+twitter.com 
+128.242.245.116
